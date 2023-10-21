@@ -1,1 +1,1 @@
-export const HOST = "http://localhost:8000";
+export const HOST = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
