@@ -1,11 +1,8 @@
 // @ts-nocheck
-import { useNavigate } from "react-router-dom";
-import EqualizerIcon from "@mui/icons-material/Equalizer";
 import CloseIcon from "@mui/icons-material/Close";
 import Avatar from "@mui/material/Avatar";
 import { useDispatch } from "react-redux";
 import "./Sidebar.css";
-import ManageAccountsIcon from "@mui/icons-material/ManageAccounts";
 import AssignmentIcon from "@mui/icons-material/Assignment";
 import PersonIcon from "@mui/icons-material/Person";
 import LogoutIcon from "@mui/icons-material/Logout";
